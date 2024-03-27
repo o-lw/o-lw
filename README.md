@@ -1,6 +1,6 @@
-## Hi, I'm Oliver Lai Wai!
+## Hi, I'm [Oliver Lai Wai!](https://www.linkedin.com/in/oliver-lai-wai/) 👋
 # 💫 About Me:
-- 👋 Hi, I’m Oliver Lai Wai!<br>- 👀 I’m interested in AI/ML, robotics, and Arduino!<br>- 🌱 I’m currently learning AI/ML from Google and NVIDIA<br>- 👨‍💼 I’m looking for fall 2024 internships<br>- 📫 How to reach me: LinkedIn - Oliver-Lai-Wai, Instagram - @oliver_lw<br>- 😄 Pronouns: he/him/his<br>- ⚡ Fun fact: English and French are my native languages!
+- 👀 I’m interested in AI/ML, robotics, and Arduino!<br>- 🌱 I’m currently learning more about AI/ML from Google and NVIDIA<br>- 👨‍💼 I’m looking for fall 2024 internships<br>- 📫 How to reach me: LinkedIn - Oliver-Lai-Wai, Instagram - @oliver_lw<br>- 😄 Pronouns: he/him/his<br>- ⚡ Fun fact: English and French are my native languages!
 
 
 ## 🌐 Socials:
