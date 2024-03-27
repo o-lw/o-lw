@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=o-lw&icon=0&color=1)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-- 👀 I’m interested in AI/ML, robotics, and Arduino!<br>- 🌱 I’m currently learning more about AI/ML from Google and NVIDIA<br>- 👨‍💼 I’m looking for fall 2024 internships<br>- 📫 How to reach me: LinkedIn - Oliver-Lai-Wai (https://www.linkedin.com/in/oliver-lai-wai/), Instagram - @oliver_lw (<br>- 😄 Pronouns: he/him/his<br>- ⚡ Fun fact: English and French are my native languages!
+- 👀 I’m interested in AI/ML, robotics, and Arduino!<br>- 🌱 I’m currently learning more about AI/ML from Google and NVIDIA<br>- 👨‍💼 I’m looking for fall 2024 internships<br>- 📫 How to reach me: LinkedIn - Oliver-Lai-Wai, Instagram - @oliver_lw <br>- 😄 Pronouns: he/him/his<br>- ⚡ Fun fact: English and French are my native languages!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oliver_lw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Oliver-Lai-Wai) 
