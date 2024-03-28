@@ -1,4 +1,4 @@
-## Hi, I'm [Oliver Lai Wai!](https://www.linkedin.com/in/oliver-lai-wai/) 👋
+## Hi, I'm [Oliver Lai Wai](https://www.linkedin.com/in/oliver-lai-wai/)! 👋
 
 [![](https://visitcount.itsvg.in/api?id=o-lw&icon=0&color=1)](https://visitcount.itsvg.in)
 
