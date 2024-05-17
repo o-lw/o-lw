@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=o-lw&icon=0&color=1)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-⚡ 1B Electrical Engineering Student @ UWaterloo<br>👀 I’m interested in AI/ML, robotics, software development, and Arduino!<br>👨‍💼 I’m looking for fall 2024 internships<br>📫 How to reach me: LinkedIn - Oliver-Lai-Wai<br>😄 Pronouns: he/him/his<br>🔎 Fun fact: English and French are my native languages!
+⚡ 1B Electrical Engineering Student @ UWaterloo<br>👀 I’m interested in AI/ML, robotics, software development, and Arduino!<br>👨‍💼 I’m looking for fall 2024 internships<br>📫 How to reach me: Oliver-Lai-Wai on LinkedIn<br>😄 Pronouns: he/him/his<br>🔎 Fun fact: English and French are my native languages!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Oliver-Lai-Wai) 
